@@ -1,17 +1,17 @@
 # shop
 
-> A Vue.js project
+> 王聪聪的作业
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# 下载依赖模块
 npm install
 
-# serve with hot reload at localhost:8080
+# 启动热重载 at localhost:8080
 npm run dev
 
-# build for production with minification
+# 打包你的项目
 npm run build
 
 # build for production and view the bundle analyzer report
